@@ -1,4 +1,4 @@
-# PowerShell Destructive Action Simulator
+# PowerShell Destructive 
 
 **CRITICAL WARNING: THIS IS A DESTRUCTIVE SCRIPT.**
 This repository contains a PowerShell script designed to recursively delete files on the primary system drive (`C:\`). It is intended strictly for educational purposes and authorized security testing within isolated, non-production environments (e.g., disposable Virtual Machines). Do not execute this script on any system containing valuable data.
